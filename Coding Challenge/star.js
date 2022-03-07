@@ -1,6 +1,9 @@
 
 // 06-03-2022
 
+// random fonksiyonu JS te var ama burada p5.js kütüphanesininki kullanılıyor
+
+
 function Star()
 {
 	this.x = random(-width, width);
