@@ -24,6 +24,8 @@ function Star()
 		}
 	};
 
+	// shows this star in canvas
+	// map() function re-maps a number from one range to another
 	this.show = function()
 	{
 		fill(255);
